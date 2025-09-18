@@ -7,10 +7,10 @@
 		"openai": "^5.20.1"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.9.4",
+		"@biomejs/biome": "2.2.4",
 		"@repo/tsconfig": "workspace:*",
-		"@types/react": "19.1.12",
-		"typescript": "5.8.3"
+		"@types/react": "19.1.13",
+		"typescript": "5.9.2"
 	},
 	"main": "./index.ts",
 	"name": "@repo/ai",
